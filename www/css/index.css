@@ -1,0 +1,44 @@
+.btn { 
+	color: #000000; 
+	background-color: #EEEEEE; 
+	border-color: #EEEEEE; 
+}
+
+.stuck {
+   
+    top: 0px;    
+    width: 100%;    
+    overflow-y: auto;
+    background-color: #F5F5F5;
+    z-index:2;
+}
+
+.ui-header .ui-title, .ui-page .ui-title {
+    
+    white-space: normal;
+    font-size: 1.5em;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+
+.ui-btn {
+    white-space: normal;
+}
+
+.ui-page { 
+    background:#ffffff;
+}
+
+.ui-body .ui-body-a {
+    background:#ffffff;
+}
+
+.par {
+    color: blue;
+    text-decoration: underline;
+}
+
+.nagl {
+    color: #686868;
+}
